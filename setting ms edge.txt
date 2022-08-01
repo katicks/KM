@@ -1,4 +1,4 @@
-﻿How to Automatic HTTPS is an experimental feature::
+How to Automatic HTTPS is an experimental feature::
 edge://flags/#edge-automatic-https
 
 How to Enable Edge's Automatic HTTPS Feature::
