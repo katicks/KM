@@ -1,0 +1,7 @@
+﻿How to Automatic HTTPS is an experimental feature::
+edge://flags/#edge-automatic-https
+
+How to Enable Edge's Automatic HTTPS Feature::
+1. edge://settings/privacy
+2. Scroll down, and under Security
+3. turn on the toggle for Automatically switch to more secure connections with Automatic HTTPS.
